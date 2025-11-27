@@ -1,9 +1,9 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lucas%20Heler&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ranni%20Heler&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-# Olá, eu sou o Lucas Heler
+# Olá, eu sou o Ranni Heler
 
 🎓 Graduando em **Engenharia de Software na UnB (FGA - Gama, DF)**  
 🎨 Foco em **UX/UI, Frontend e Design Systems**  
@@ -38,7 +38,7 @@ Proficiente em:
 </p>
 
 🌐 Contatos
-<p align="center"> <a href="mailto:lucasheler3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/lucas-heler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<p align="center"> <a href="mailto:Ranniheler3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/Ranni-heler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://drive.google.com/file/d/1ePbZ-6E33W8p4r0v2HUQc5EHRmtTqzN2/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum-228B22?style=for-the-badge&logo=google-docs&logoColor=white&label=Meu+CV"/></a>
 
 </p>
