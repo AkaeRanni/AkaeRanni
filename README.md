@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ranni%20Heler&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
-# Olá, eu sou o Ranni Heler
+# Olá, eu sou Ranni Heler
 
 🎓 Graduando em **Engenharia de Software na UnB (FGA - Gama, DF)**  
 🎨 Foco em **UX/UI, Frontend e Design Systems**  
